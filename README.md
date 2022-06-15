@@ -6,7 +6,9 @@ I created this program while learning C++ programming using SplashKit library!
 Inspired from the FlappyBird game, the ideas for Flappy Fish are generated. Same as the instructions of Flappy Bird, when players play Flappy Fish, they need to move the fish as far as possible without hitting the pipes and stop the fish from floating out of the surface.
 
 ## UML Functionality
-[UML-image](https://github.com/TrangNguyenn/FlappyFish/blob/main/UML%20Functionality.png)
+Procedures and functions in the program
+
+![UML-image](https://github.com/TrangNguyenn/FlappyFish/blob/main/UML%20Functionality.png)
 
 ## Installation guide
 Follow the installation guide [here](https://splashkit.io/articles/installation/)
