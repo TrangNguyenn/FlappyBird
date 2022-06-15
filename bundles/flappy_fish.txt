@@ -1,0 +1,25 @@
+// Resources found at: https://www.spriters-resource.com/mobile/flappybird/sheet/59894/
+// Resources found at: https://www.freepik.com/
+
+// Home Screen
+BITMAP,message,message.png
+
+// Player
+BITMAP,fish,fish_pxl.png
+BITMAP,heart,heart.png
+BITMAP,black_heart,black_heart.png
+
+
+// Background
+BITMAP,background,ocean.png
+BITMAP,base,base.png
+
+// Pipes
+BITMAP,pipe-up, pipe-blue-up.png
+BITMAP,pipe-down,pipe-blue-down.png
+
+// Font
+FONT,gamefont,FlappyBirdRegular.ttf
+
+// Game Over
+BITMAP,gameover,gameover.png
